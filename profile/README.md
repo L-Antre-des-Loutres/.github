@@ -1,4 +1,4 @@
-![adl-logo](https://raw.githubusercontent.com/L-Antre-des-Loutres/Webisoutre/refs/heads/main/public/img/logo/adl-logo.png)
+![adl-webi-logo](https://raw.githubusercontent.com/L-Antre-des-Loutres/Webisoutre/refs/heads/main/public/img/logo/adl-webi-logo.png)
 
 *L'Antre des Loutres : Ce nom fait suite à notre premier projet de cours, "Les Loutres Furieuses". Souhaitant conserver des noms en rapport avec les loutres, nous nous sommes dit que le meilleur choix de nom pour notre groupe ne pouvait être que "L'Antre des Loutres" !*
 <br><br>
@@ -46,3 +46,6 @@ ALIAS : Rerebleue
 
 - [**Victor**](https://github.com/Victor97200)
 ALIAS : Panda, Formulaire-Man, Le gars qui regarde des vidéos en cours au lieu de travailler
+
+> [!NOTE]
+> Bien que nous pouvons comprembre votre envie de devenir une Loutre Dev, nous n'acceptons pas d'autre Membres pour le moment !
