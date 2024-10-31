@@ -22,11 +22,11 @@ Ah, ont à un site aussi maintenant : [antredesloutres.fr](https://antredesloutr
 
 [antredesloutres.fr](https://antredesloutres.fr), notre site Internet ([Code source ici](https://github.com/L-Antre-des-Loutres/Webisoutre))
 
+L'API Serveur, qui constitue le noyau de nos serveurs de jeu, gère le lancement à la demande, la fermeture, la création et l'installation de nouveaux serveurs, ainsi que le renvoi des statistiques et des informations des serveurs. ([Code source ici](https://github.com/matheo-1712/API-Serveur))
+
 Arisoutre, notre bot Discord principal ([Code source ici](https://github.com/L-Antre-des-Loutres/Arisoutre))
 
 Mineotter, notre bot Discord resposable de la gestion de nos [serveurs Minecraft](https://antredesloutres.fr/minecraft) ([Code source ici](https://github.com/Corentin-cott/Mineotter-Bot))
-
-L'API Serveur, qui constitue le noyau de nos serveurs de jeu, gère le lancement à la demande, la fermeture, la création et l'installation de nouveaux serveurs, ainsi que le renvoi des statistiques et des informations des serveurs. ([Code source ici](https://github.com/matheo-1712/API-Serveur))
 
 Multiloutre, notre bot Discord resposable de la gestion de nos [autres serveurs](https://antredesloutres.fr/) ([Code source ici](https://github.com/matheo-1712/MultiLoutre)) 
 
