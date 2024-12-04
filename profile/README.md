@@ -22,7 +22,7 @@ Ah, ont à un site aussi maintenant : [antredesloutres.fr](https://antredesloutr
 
 [antredesloutres.fr](https://antredesloutres.fr), notre site Internet ([Code source ici](https://github.com/L-Antre-des-Loutres/Webisoutre))
 
-L'API Serveur, qui constitue le noyau de nos serveurs de jeu, gère le lancement à la demande, la fermeture, la création et l'installation de nouveaux serveurs, ainsi que le renvoi des statistiques et des informations des serveurs. ([Code source ici](https://github.com/matheo-1712/API-Serveur))
+L'API Serveur, noyau des intéractions avec les serveurs de jeux ([Code source ici](https://github.com/matheo-1712/API-Serveur))
 
 Arisoutre, notre bot Discord principal ([Code source ici](https://github.com/L-Antre-des-Loutres/Arisoutre))
 
