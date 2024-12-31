@@ -32,11 +32,10 @@ Multiloutre, notre bot Discord resposable de la gestion de nos [autres serveurs]
 
 Et, encore d'autre à venir :
 
-- Pokémon : Royaume de Loutre Mer
-
+- Royaume de Loutre Mer
 - Mateloutre
-
 - Furina
+- DexAPI
 
 # Membres
 
