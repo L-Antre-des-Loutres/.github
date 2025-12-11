@@ -46,7 +46,11 @@ ALIAS : TheAzertor, Cocow
 ALIAS : Rerebleue
 
 - [**Victor**](https://github.com/Victor97200)
-ALIAS : Panda, Formulaire-Man, Le gars qui regarde des vidéos en cours au lieu de travailler
+ALIAS : Panda
+
+Contributeur externe :
+- [MrBizard](https://github.com/MrBizard)
+ALIAS : Kagumi
 
 > [!NOTE]
-> Bien que nous pouvons comprembre votre envie de devenir une Loutre Dev, nous n'acceptons pas d'autre Membres pour le moment !
+> Nous acceptons de nouveaux membres, ou simplement les contributions sans engagements !
