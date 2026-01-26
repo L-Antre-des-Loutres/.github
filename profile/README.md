@@ -46,9 +46,6 @@ ALIAS : TheAzertor, Cocow
 - [**Mathéo**](https://github.com/matheo-1712)
 ALIAS : Rerebleue
 
-- [**Victor**](https://github.com/Victor97200)
-ALIAS : Panda
-
 Contributeur externe :
 - [MrBizard](https://github.com/MrBizard)
 ALIAS : Kagumi
